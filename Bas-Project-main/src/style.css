@@ -37,12 +37,6 @@ nav ul li a:hover {
     color: #666;
 }
 
-#main {
-    background: no-repeat center / cover url(img/bas.png);
-    width: 100%;
-    height: 100vh;
-}
-
 footer {
     background-color: #333;
     color: #fff;

@@ -1,5 +1,5 @@
 <?php
-// auteur: Amin
+// auteur: Berkay
 // functie: definitie class Database
 namespace Bas\classes;
 

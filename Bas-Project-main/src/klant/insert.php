@@ -1,5 +1,5 @@
 <?php
-// Auteur: Amin
+// Auteur: Berkay
 // Functie: Insert klantgegevens
 
 

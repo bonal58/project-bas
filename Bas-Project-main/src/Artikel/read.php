@@ -1,5 +1,5 @@
 <!--
-    Auteur: Amin
+    Auteur: Berkay
     Functie: home page CRUD Artikel
 -->
 <!DOCTYPE html>

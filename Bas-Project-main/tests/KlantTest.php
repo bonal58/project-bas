@@ -1,5 +1,5 @@
 <?php
-// auteur: Amin
+// auteur: Berkay
 // functie: unittests class Klant
 
 use PHPUnit\Framework\TestCase;
@@ -31,7 +31,7 @@ class KlantTest extends TestCase {
     public function testInsertKlantTrue() {
         $testData = [
             'klantEmail' => 'test@example.com',
-            'klantNaam' => 'Test',
+            'klantNaam' => 'Mio',
             'klantAdres' => 'Test Adres 303',
             'klantPostcode' => '383HF',
             'klantWoonplaats' => 'Test'

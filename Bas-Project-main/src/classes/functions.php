@@ -1,5 +1,5 @@
 <?php
-// auteur: Amin
+// auteur: Berkay
 // functie: algemene functies 
 function getTableHeader(array $row) : string {
     // haal de kolommen uit de eerste [0] van het array $result mbv array_keys

@@ -12,7 +12,7 @@ use PhpParser\Node\Stmt;
 use PhpParser\NodeVisitorAbstract;
 
 class NameResolver extends NodeVisitorAbstract {
-    /** @var NameContext Naming context */
+    /** @var NameContext NBerkayg context */
     protected NameContext $nameContext;
 
     /** @var bool Whether to preserve original names */
